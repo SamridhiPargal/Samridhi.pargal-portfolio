@@ -21,10 +21,8 @@ GIT, GitHub, Gitlab, Jira.
 Oculus Quest 2/3/Pro, HTC Vive, HoloLens 1/2.
 
 ### Education
-Master of Science, Department of Computer Science   September 2019- December 2021
-University of New Brunswick, Fredericton, NB, Canada
-Bachelor of Engineering, Computer Science           June 2015- April 2019
-Guru Gobind Singh Indraprastha University, Delhi, India
+Master of Science , Department of Computer Science |  University of New Brunswick, Fredericton, NB, Canada | September 2019- December 2021
+Bachelor of Engineering, Computer Science          | Guru Gobind Singh Indraprastha University, Delhi,India| June 2015- April 2019
 
 ### Work Experience
 Researcher @ NBCC
