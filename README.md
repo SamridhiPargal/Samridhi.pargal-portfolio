@@ -63,6 +63,6 @@ task completion rates.
 • Conducted AR/VR prototyping and iterative testing to enhance usability, refine immersive features, 
 and boost overall user engagement and system efficiency by 20–30%.
 
-### Projects
-EEG Band Discovery
+### Achievements
+- [Microsoft Architecture Fundamental AZ-900](https://learn.microsoft.com/api/achievements/share/en-us/SamridhiPargal-0544/HZNF3TU8?sharingId=D5CF2304FE6787B3)
 -
